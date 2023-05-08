@@ -125,11 +125,8 @@ main img {
   margin: 30px 0 30px 0;
   padding: 10px;
   width: 70%;
-  transform: rotate(356deg);
 }
-main .opposite-rotation {
-  transform: rotate(5deg);
-}
+
 main p {
   color: var(--secondary-font-color);
   padding-top: 50px;
@@ -307,9 +304,7 @@ footer .open-sourced:hover {
     margin: 0;
     transform: rotate(0deg);
   }
-  main .opposite-rotation {
-    transform: rotate(0deg);
-  }
+
   main .projects {
     padding: 50px 10px;
   }
