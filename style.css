@@ -98,7 +98,7 @@ section p {
   text-align: center;
 }
 main {
-  background-color: cornflowerblue;
+  background-color: var(--soft-backgroundcolor);
 
   padding-bottom: 40px;
   text-align: center;
